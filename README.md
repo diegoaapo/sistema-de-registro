@@ -1,3 +1,7 @@
 <h1> Sistema de Resgistro </h1>
 
--Esrado del proyecto: En Construccion.
+-Estado del proyecto: En Construccion.
+
+Para ejecutar el sistema, debes poner;
+
+```npm instal react```
